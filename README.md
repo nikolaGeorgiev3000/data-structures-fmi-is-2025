@@ -18,12 +18,14 @@ Each topic is divided into three stages:
 ---
 
 ## 💡 Structure
+```
 data-structures-fmi-is-2025/
 ├── seminars/  # theory notes, intuition breakdowns
 ├── tasks/     # practice problems (custom or FMI past exams)
 ├── leetcode/  # related LeetCode problems
 ├── README.md
 └── .gitignore
+```
 
 ---
 
