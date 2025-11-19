@@ -45,5 +45,7 @@ assert(kittens("SSBBOOOOOOOSBOOOOOOOOOSB", 5) == 1);
 assert(kittens("SOOSBBOOOOSOOOSBOSOOBOSOSOOBOSOSOOB", 7) == 3);
 ```
 
+---
+
 ### Задача 5
 [LeetCode 1823: Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/)
