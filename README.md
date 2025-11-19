@@ -7,5 +7,3 @@ This repository tracks the course **Data Structures @ FMI IS 2025/2026**.
 - macOS Tahoe  
 - Cursor/VSCode IDE  
 - C++ (primary language)
-
-Testing out new author name
